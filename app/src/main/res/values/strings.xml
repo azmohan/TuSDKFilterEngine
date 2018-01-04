@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TuSDKFilterEngine</string>
+    <string name="lsq_exit_info">再按一次将退出应用</string>
+
+    <string name="lsq_text_surfacetexture">美颜 + 动态贴纸</string>
+    <string name="lsq_text_yuvdata">YUV 美颜引擎</string>
+
+    <!--  滤镜参数 -->
+    <string name="lsq_filter_set_smoothing">润滑</string>
+    <string name="lsq_filter_set_whitening">白皙</string>
+    <string name="lsq_filter_set_mixied">效果</string>
+    <string name="lsq_filter_set_eyeSize">大眼</string>
+    <string name="lsq_filter_set_chinSize">瘦脸</string>
+
+
+    <string name="beauty_on">美颜已开启</string>
+    <string name="beauty_off">美颜已关闭</string>
+    <string name="lsq_dermabrasion">磨皮</string>
+    <string name="lsq_big_eyes">大眼</string>
+    <string name="lsq_thin_face">瘦脸</string>
+    <string name="lsq_beauty_text">美颜</string>
+    <string name="lsq_text_beauty">美颜</string>
+    <string name="lsq_filter_text">滤镜</string>
+
+
+    <string name="lsq_filter_SkinNature01">自然</string>
+    <string name="lsq_filter_SkinPink04">粉嫩</string>
+    <string name="lsq_filter_Jelly01">果冻</string>
+    <string name="lsq_filter_SkinNoir01">黑白</string>
+    <string name="lsq_filter_SkinRuddy01">红润</string>
+    <string name="lsq_filter_SkinSugar01">糖水色</string>
+    <string name="lsq_filter_SkinPowder01">蜜粉</string>
+
+    <!-- 录制 -->
+    <string name="lsq_record_start">开始录制</string>
+    <string name="lsq_record_stop">停止录制</string>
+    <string name="lsq_record_pause">暂停录制</string>
+    <string name="lsq_record_restart">继续录制</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    
+    <SurfaceView 
+        android:id="@+id/previewSurface"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        />
+
+    <ImageView
+        android:id="@+id/lsqCloseButton"
+        android:layout_width="44dp"
+        android:layout_height="44dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:scaleType="center"
+        android:src="@drawable/icon_close" />
+
+
+    <ImageView
+        android:id="@+id/lsqPreviewImageView"
+        android:layout_width="100dp"
+        android:layout_height="200dp" />
+
+</RelativeLayout>

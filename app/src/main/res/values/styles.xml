@@ -1,0 +1,16 @@
+<resources>
+
+    <style name="lsq_sdkBaseTheme" parent="android:Theme.Light.NoTitleBar"></style>
+
+    <style name="lsq_sdkTheme" parent="lsq_sdkBaseTheme"></style>
+
+
+    <style name="lsq_record_filter_list_view">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">90dp</item>
+
+        <item name="android:layout_marginBottom">5dp</item>
+        <item name="android:layout_alignParentBottom">true</item>
+    </style>
+
+</resources>
